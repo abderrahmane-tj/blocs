@@ -1,4 +1,4 @@
-package com.jetris.core;
+package com.blocs.core;
 
 public class Cordinate {
     public Cordinate(int x, int y) {

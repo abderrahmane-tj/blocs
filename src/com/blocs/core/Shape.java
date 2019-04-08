@@ -1,4 +1,4 @@
-package com.jetris.core;
+package com.blocs.core;
 
 import java.awt.Color;
 

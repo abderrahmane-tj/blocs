@@ -1,4 +1,4 @@
-package com.jetris.core;
+package com.blocs.core;
 
 import com.intellij.uiDesigner.core.GridConstraints;
 import com.intellij.uiDesigner.core.GridLayoutManager;
